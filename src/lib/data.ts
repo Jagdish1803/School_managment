@@ -6,7 +6,7 @@ export const teachersData = [
   {
     id: 1,
     teacherId: "97644545",
-    name: "Oravin",
+    name: "Ramesh",
     email: "ramesh@gmail.com",
     photo:
       "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
